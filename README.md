@@ -28,3 +28,6 @@ For shoulders, the average 1RM has mostly stayed flat, largely due to instabilit
 
 Next Steps:
 I plan to keep focusing on heavy lifting for key exercises while putting more effort into strengthening and stabilizing my shoulders. I’m also considering developing a weighted average for muscle group 1RM values to better reflect progress, especially when incorporating more low-weight lifts into the routine.
+
+Here is a preview of the dashboard:
+![Dashboard screenshot](ExerciseDashv2Preview.jpg)
